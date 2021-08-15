@@ -1,7 +1,7 @@
 ## About
 A farmstand CRUD app 🍅
 
-## Objective
+## Goal
 Build a REST API using Node.js, Express and Mongoose
 
 ## Technologies
